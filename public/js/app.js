@@ -12637,6 +12637,7 @@ return jQuery;
 
 window.$ = window.jQuery = require('jquery');
 require('bootstrap-sass');
+
 $(document).ready(function () {});
 
 },{"bootstrap-sass":1,"jquery":2}]},{},[3]);
